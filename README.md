@@ -90,3 +90,22 @@ function bar() {
 // этот код в строгом режиме
 
 ```
+## 5: Blocks
+
+В циклах локальные переменные в js нихрена не лькальные
+```
+for(var i = 0;i<10;++i){
+}
+console.log(i);//10
+
+```
+А вот в блоках try-catch все работает нормально
+
+```
+try{
+  undefined();//нелегальная операция,чтобы вызвать исключение
+}catch(err){
+  console.log(err);//заработает
+}
+console.log(err);//ReferenceError: 'err' not found;
+```
