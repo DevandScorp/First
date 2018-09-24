@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3ab0aee-a44a-4735-ae91-ec81fec7fa55" name="Default Changelist" comment="First: many tasks and updated readme">
-      <change afterPath="$PROJECT_DIR$/codewars/Matrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/Stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/fact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/fact_advanced.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/simple_nums.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/stupid_test.js" afterDir="false" />
+    <list default="true" id="b3ab0aee-a44a-4735-ae91-ec81fec7fa55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/codewars/Serialized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/Smart_Calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/deep_properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/enum_prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/iterator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/longst_Consecutive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/not_enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/sortByProto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/timeout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,45 +26,45 @@
     <session id="-999474434">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="7" />
+          <entry key="project.open.time.5" value="10" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="7" />
-          <entry key="js" value="41" />
+          <entry key="js" value="54" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="7" />
-          <entry key="JavaScript" value="41" />
+          <entry key="JavaScript" value="54" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="416" />
-          <entry key="js" value="19954" />
+          <entry key="js" value="25230" />
           <entry key="md" value="1" />
-          <entry key="txt" value="51" />
+          <entry key="txt" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="416" />
-          <entry key="JavaScript" value="19954" />
+          <entry key="JavaScript" value="25230" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="PLAIN_TEXT" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -71,97 +74,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/fact.js">
+        <entry file="file://$PROJECT_DIR$/codewars/enum_prop.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="115">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/fact_advanced.js">
+        <entry file="file://$PROJECT_DIR$/codewars/not_enum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <element signature="n#!!block;n#getZerosCount#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/simple_nums.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/stupid_test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="32" selection-start-line="32" selection-end-line="69" selection-end-column="1" />
+            <state relative-caret-position="161">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codewars/Matrix.js">
+        <entry file="file://$PROJECT_DIR$/codewars/sortByProto.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="79" column="1" lean-forward="true" selection-start-line="22" selection-end-line="79" selection-end-column="1" />
-              <folding>
-                <marker date="1537539882431" expanded="true" signature="2469:2487" ph="..." />
-              </folding>
+            <state relative-caret-position="230">
+              <caret line="10" column="15" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codewars/love_triangles.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/incapsulation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/inheritance.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/objects.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/firstscript.js">
+        <entry file="file://$PROJECT_DIR$/codewars/deep_properties.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <caret line="13" column="16" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codewars/iterator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-207">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codewars/longst_Consecutive.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codewars/timeout.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codewars/Serialized.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/good_oop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functions_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -219,6 +216,15 @@
         <option value="$PROJECT_DIR$/codewars/simple_nums.js" />
         <option value="$PROJECT_DIR$/codewars/stupid_test.js" />
         <option value="$PROJECT_DIR$/codewars/Matrix.js" />
+        <option value="$PROJECT_DIR$/codewars/longst_Consecutive.js" />
+        <option value="$PROJECT_DIR$/codewars/Smart_Calculator.js" />
+        <option value="$PROJECT_DIR$/codewars/iterator.js" />
+        <option value="$PROJECT_DIR$/codewars/timeout.js" />
+        <option value="$PROJECT_DIR$/codewars/Serialized.js" />
+        <option value="$PROJECT_DIR$/codewars/enum_prop.js" />
+        <option value="$PROJECT_DIR$/codewars/deep_properties.js" />
+        <option value="$PROJECT_DIR$/codewars/not_enum.js" />
+        <option value="$PROJECT_DIR$/codewars/sortByProto.js" />
       </list>
     </option>
   </component>
@@ -229,7 +235,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="445" />
+    <option name="x" value="225" />
+    <option name="y" value="163" />
     <option name="width" value="1400" />
     <option name="height" value="1100" />
   </component>
@@ -239,6 +246,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,18 +264,23 @@
               <item name="First" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="this_object" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="VAR" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../longest-consecutive-sequence" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../you-are-awesome" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -282,36 +295,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Matrix.js">
-    <configuration name="Matrix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Matrix.js" working-dir="$PROJECT_DIR$/codewars">
+  <component name="RunManager" selected="Node.js.sortByProto.js">
+    <configuration name="Serialized.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Serialized.js" working-dir="$PROJECT_DIR$/codewars">
       <method v="2" />
     </configuration>
-    <configuration name="fact_advanced.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fact_advanced.js" working-dir="$PROJECT_DIR$/codewars">
+    <configuration name="deep_properties.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="deep_properties.js" working-dir="$PROJECT_DIR$/codewars">
       <method v="2" />
     </configuration>
-    <configuration name="fact.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fact.js" working-dir="$PROJECT_DIR$/codewars">
+    <configuration name="enum_prop.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="enum_prop.js" working-dir="$PROJECT_DIR$/codewars">
       <method v="2" />
     </configuration>
-    <configuration name="simple_nums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="simple_nums.js" working-dir="$PROJECT_DIR$/codewars">
+    <configuration name="not_enum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="not_enum.js" working-dir="$PROJECT_DIR$/codewars">
       <method v="2" />
     </configuration>
-    <configuration name="stupid_test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="stupid_test.js" working-dir="$PROJECT_DIR$/codewars">
+    <configuration name="sortByProto.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="sortByProto.js" working-dir="$PROJECT_DIR$/codewars">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.fact.js" />
-      <item itemvalue="Node.js.fact_advanced.js" />
-      <item itemvalue="Node.js.simple_nums.js" />
-      <item itemvalue="Node.js.stupid_test.js" />
-      <item itemvalue="Node.js.Matrix.js" />
+      <item itemvalue="Node.js.enum_prop.js" />
+      <item itemvalue="Node.js.Serialized.js" />
+      <item itemvalue="Node.js.deep_properties.js" />
+      <item itemvalue="Node.js.not_enum.js" />
+      <item itemvalue="Node.js.sortByProto.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Matrix.js" />
-        <item itemvalue="Node.js.stupid_test.js" />
-        <item itemvalue="Node.js.simple_nums.js" />
-        <item itemvalue="Node.js.fact_advanced.js" />
-        <item itemvalue="Node.js.fact.js" />
+        <item itemvalue="Node.js.sortByProto.js" />
+        <item itemvalue="Node.js.not_enum.js" />
+        <item itemvalue="Node.js.deep_properties.js" />
+        <item itemvalue="Node.js.enum_prop.js" />
+        <item itemvalue="Node.js.Serialized.js" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +363,10 @@
       <workItem from="1537463028768" duration="7689000" />
       <workItem from="1537537367883" duration="3194000" />
       <workItem from="1537617960864" duration="46000" />
+      <workItem from="1537618028373" duration="7429000" />
+      <workItem from="1537702823726" duration="3751000" />
+      <workItem from="1537723182883" duration="12816000" />
+      <workItem from="1537804835354" duration="13272000" />
     </task>
     <task id="LOCAL-00001" summary="#2">
       <created>1535308659318</created>
@@ -379,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536949967414</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First: codewars edited">
+      <created>1537618155040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537618155040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92539000" />
+    <option name="totallyTimeSpent" value="129807000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,21 +420,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16807166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48682824" weight="0.42621145" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49192363" weight="0.38130254" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47839832" visible="true" weight="0.42621145" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4857745" weight="0.38105726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49894625" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.32929516" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4963119" weight="0.32929516" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51317173" side_tool="true" visible="true" weight="0.42621145" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49578503" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5216017" side_tool="true" visible="true" weight="0.42621145" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -427,7 +452,8 @@
     <MESSAGE value="#3" />
     <MESSAGE value="#4-this" />
     <MESSAGE value="First: many tasks and updated readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="First: many tasks and updated readme" />
+    <MESSAGE value="First: codewars edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="First: codewars edited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,13 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/this_object/use_strict.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -543,13 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/good_oop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/this_object/first.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -564,20 +576,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="4" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js" />
     <entry file="file://$PROJECT_DIR$/codewars/1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -648,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="n#!!block;n#getZerosCount#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -668,6 +664,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/Matrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="1" selection-start-line="22" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codewars/love_triangles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -682,20 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/inheritance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/objects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/firstscript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -703,13 +692,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars/Matrix.js">
+    <entry file="file://$PROJECT_DIR$/js/objects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/inheritance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/Smart_Calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="106" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/timeout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="79" column="1" lean-forward="true" selection-start-line="22" selection-end-line="79" selection-end-column="1" />
-          <folding>
-            <marker date="1537539882431" expanded="true" signature="2469:2487" ph="..." />
-          </folding>
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/good_oop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/Serialized.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/iterator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/longst_Consecutive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/deep_properties.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/enum_prop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/not_enum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars/sortByProto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
