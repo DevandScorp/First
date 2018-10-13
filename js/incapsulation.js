@@ -4,7 +4,7 @@
  */
 function User(name,age) {
     this.name = name;
-    var _age = age;
+    let _age = age;
     this.display = function () {
         console.log("Имя: " + this.name + "; возраст: " + _age);
     }
@@ -19,7 +19,7 @@ function User(name,age) {
         }
     }
 }
-var user = new User('Artem',15);
+const user = new User('Artem',15);
 console.log(user._age);//undefined
 console.log(user.getAge());
 user.setAge(17);
