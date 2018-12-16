@@ -1,19 +1,13 @@
 
-const socket = new WebSocket("ws://localhost:8081");
+const socket = new WebSocket("ws://wsc.2123.io");//wss
 
-document.forms.publish.onsubmit = function(){
-    const message = this.message.value;
-
-    socket.send(message);
-    return false;
-}
-
+socket.binaryType = "arraybuffer";
+//через typeof чекать строки
+// socket.onopen = function(event){
+//     const obj = { "token": "1390d72a4a2f861e", "command": "arithmetic"}
+//     socket.send(JSON.stringify(obj));
+// }
 socket.onmessage = function(event){
     const incomingMessage = event.data;
-    showMessage(incomingMessage);
-}
-function showMessage(message){
-    const messageElement = document.createElement('div');
-    messageElement.appendChild(document.createTextNode(message));
-    document.getElementById('subscribe').appendChild(messageElement);
+    console.log(incomingMessage);
 }
